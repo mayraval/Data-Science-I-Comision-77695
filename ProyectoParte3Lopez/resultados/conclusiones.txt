@@ -1,0 +1,6 @@
+
+1. Reading Score domina en la importancia de Random Forest y Gradient Boosting debido a su alta correlación con Writing Score.
+2. Permutation Importance muestra una distribución más equilibrada de la relevancia de features.
+3. Math Score y variables contextuales (género, nivel educativo, preparación) siguen siendo relevantes para predicción.
+4. Los modelos basados en árboles manejan mejor outliers y dispersión que la regresión lineal.
+5. Para trabajos futuros se recomienda evaluar modelos de ensamblado y considerar remover variables altamente colineales para análisis más interpretables.
