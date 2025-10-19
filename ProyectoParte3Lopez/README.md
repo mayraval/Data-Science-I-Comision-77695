@@ -43,9 +43,6 @@ ProyectoFinal/
 ├─ data/
 │   └─ StudentsPerformance.csv       # Dataset original
 │
-├─ notebooks/
-│   └─ ProyectoFinal_Analisis_Rendimiento.ipynb   # Notebook principal
-│
 ├─ resultados/
 │   ├─ feature_selection_summary.csv
 │   ├─ perm_importance_rf.csv
@@ -53,6 +50,7 @@ ProyectoFinal/
 │   └─ conclusiones.txt
 │
 └─ README.md
+└─ ProyectoParteIII+Lopez.ipynb   # Notebook principal
 ```
 
 ---
@@ -133,6 +131,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-## Autora
-Mayra Belen Lopez  
 2025
