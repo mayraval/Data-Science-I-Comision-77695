@@ -43,7 +43,7 @@ ProyectoFinal/
 ├─ data/
 │   └─ StudentsPerformance.csv       # Dataset original
 │
-├─ resultados/
+├─ resultados (Principales)/
 │   ├─ feature_selection_summary.csv
 │   ├─ perm_importance_rf.csv
 │   ├─ predicciones_modelos.csv
